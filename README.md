@@ -37,5 +37,6 @@
 > [!IMPORTANT]
 > 请务必确保 `@match` 后面的端口号与你安装 1Panel 时设置的端口一致，否则脚本将无法在该页面运行。
 
-
+### 展示
+<img width="2530" height="1363" alt="image" src="https://github.com/user-attachments/assets/a40e8c22-0c06-4adb-9323-205c64516987" />
 
