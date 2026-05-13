@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name         1panel-Dazzling-Black-Theme
+// @name         1panel dark themes
 // @namespace    http://tampermonkey.net/
 // @version      2.0
-// @description  这个脚本是干嘛的，一句话说清楚
-// @author       你的名字
-// @match        http://192.168.1.1/*
+// @description  主题 haha
+// @author       Ppibear
+// @match        http://192.168.1.1:37573/*
 // ==/UserScript==
+
+if (!location.href.startsWith("http://192.168.31.168:37573/")) return;
 
 (function () {
 
