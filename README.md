@@ -22,7 +22,8 @@
 > 
 > `// @match        http://192.168.1.1:37573/*`
 >
-<img width="836" height="311" alt="image" src="https://github.com/user-attachments/assets/5cfa63cb-6acd-4f04-a8e6-f12e6b89afc4" />
+<img width="1078" height="419" alt="image" src="https://github.com/user-attachments/assets/22d96750-6de0-49e0-a95b-749d5dc75c29" />
+
 
 #### 3. 粘贴代码并保存
 将主题脚本的完整代码粘贴到编辑器中，覆盖原有内容，然后按 `Ctrl + S`（或点击文件 -> 保存）。
